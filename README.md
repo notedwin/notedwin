@@ -1,8 +1,8 @@
 ## Hey there 👋
 
 In the past, I've worked on:
-- Enabled data-centric decision-making @ Deloitte.
-- Optimized cloud spend @ Cox Auto
+- Enabling data-centric decision-making @ Deloitte.
+- Optimizing cloud spend @ Cox Auto
 
 
 ### Projects:
