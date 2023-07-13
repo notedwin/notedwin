@@ -14,4 +14,7 @@ In the past, I've worked on:
 
 Read more at [my website](https://notedwin.com)
 
-![](https://raw.githubusercontent.com/notedwin/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+<div style="display:flex">
+    <img src="https://raw.githubusercontent.com/notedwin/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="overview" width="400" />
+    <img src="https://raw.githubusercontent.com/notedwin/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="languages" width="400" />
+</div>
