@@ -4,13 +4,11 @@ In the past, I've worked on:
 - Enabling data-centric decision-making @ Deloitte.
 - Optimizing cloud spend @ Cox Auto
 
-
 ### Projects:
-- **Attack Map**: Developed a custom log parser in Rust to visualize attempted logins on a Linux system. Check it out [here](https://github.com/notedwin/attack-map).
-- **Screen Time Data Pipelines**: Designed and implemented data pipelines using Dagster to process and analyze personal screen time data. Find it [here](https://github.com/notedwin/log-screen).
-- **HaxML**: Built machine learning models to predict expected goals (xG) for the online soccer game, HaxBall. Explore the project [here](https://github.com/vingkan/haxml).
-
-- And some more bad code!  
+- Custom log parser in Rust for [Attack Map](https://github.com/notedwin/attack-map)
+- Personal data pipelines in Dagster [Here](https://github.com/notedwin/log-screen)
+- ML to predict expected goals (xG) at [HaxML](https://github.com/vingkan/haxml)
+- And much more buggy code!  
 
 Read more at [my website](https://notedwin.com)
 
