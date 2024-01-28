@@ -1,18 +1,14 @@
-## Hey there 👋
+## 👋🏽
 
-In the past, I've worked on:
-- Enabling data-centric decision-making @ Deloitte.
-- Optimizing cloud spend @ Cox Auto
+Hi, these days I make computers turn electricity into heat.
 
 ### Projects:
-- Custom log parser in Rust for [Attack Map](https://github.com/notedwin/attack-map)
-- Personal data pipelines in Dagster [Here](https://github.com/notedwin/log-screen)
-- ML to predict expected goals (xG) at [HaxML](https://github.com/vingkan/haxml)
-- And much more buggy code!  
+- [HaxML](https://github.com/vingkan/haxml) - ML to predict expected goals (xG)
+- [Ansible compose](https://github.com/notedwin/ansible-compose) - my homelab config, mainly docker compose in ansible
+- [attack-map](https://github.com/notedwin/attack-map) - An app to visualize logs using rust
+- [Manzana Health](https://github.com/notedwin/mazana-health)- An apple health data parser and exporter
+- [screen thyme](https://github.com/notedwin/screen_thyme), a library to automate exporting screentime data
+- [datacow](https://github.com/notedwin/datacow) - scripts to try out API's/datasets
+- [log-screen](https://github.com/notedwin/log-screen) - data pipelines for my personal(apple health, screentime, etc) data using Dagster
 
-Read more at [my website](https://notedwin.com)
-
-<div style="display:flex">
-    <img src="https://raw.githubusercontent.com/notedwin/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="overview" width="400" />
-    <img src="https://raw.githubusercontent.com/notedwin/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="languages" width="400" />
-</div>
+you can read more about my projects on my [blog](https://notedwin.com)
